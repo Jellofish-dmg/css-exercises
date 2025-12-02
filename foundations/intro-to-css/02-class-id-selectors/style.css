@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: #fda7a8;
+    font-family: "Verdana" "DejaVu Sans" "sans-serif";
+}
+
+#pike {
+    color: #0b24fb;
+    font-size: 36px;
+}
+
+.obamna {
+    font-size: 24px;
+}
+
+#lmao {
+    background-color: rgb(133, 253, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
